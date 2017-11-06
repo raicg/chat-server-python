@@ -1,3 +1,6 @@
+#Chat server, its a room chat that unlimited clients can connect to it
+#All commented in portuguese-BR
+#Created by: Rai Gondim
 from socket import *
 from threading import Thread
 import re
